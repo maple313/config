@@ -2,3 +2,5 @@ spring:
   application:
     name: config-test
 
+liuxin:
+  name: xinxin
